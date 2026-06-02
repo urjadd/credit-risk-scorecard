@@ -7,11 +7,13 @@ An end-to-end credit risk scoring system built on the Home Credit Default Risk d
 Takes applicant financial data as input and returns a credit score, risk band, and plain English explanation of the decision. Built for loan officers, not data scientists.
 
 ## Project Structure
+```
 ├── notebooks/          # EDA, modelling, and analysis
 ├── src/                # Reusable Python modules
 ├── models/             # Saved model artifacts
 ├── math-intuition/     # Plain English notes on model mathematics
-├── docs/               # API docs, model card, runbook
+└── docs/               # API docs, model card, runbook
+```
 
 ## Tech Stack
 
