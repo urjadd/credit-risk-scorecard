@@ -368,7 +368,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-API_URL = "http://127.0.0.1:8000"
+API_URL = "https://credit-risk-scorecard-1.onrender.com"
 
 st.markdown("""
 <div class="main-header">
