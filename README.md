@@ -4,7 +4,7 @@ An end-to-end credit risk scoring system built on the Home Credit Default Risk d
 
 ## Live Demo
 
-* Dashboard: [Streamlit App](https://your-streamlit-url-here.streamlit.app/)
+* Dashboard: [Streamlit App](https://credit-risk-scorecardgit-kt9sadr9gcnz4xfbevewd8.streamlit.app/)
 * API: https://credit-risk-scorecard-1.onrender.com/docs
 
 ## What This Does
